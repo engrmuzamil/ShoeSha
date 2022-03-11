@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "189334957767",
+    "project_id": "shoesha-650db",
+    "storage_bucket": "shoesha-650db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189334957767:android:6d607cda1a53a09f3a18e2",
+        "android_client_info": {
+          "package_name": "com.example.sellshoes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189334957767-fhfnce65b1s30ia0605piua0185iqr68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4mWthtY07W-GZUIx_RNFWNKkx5ldQsKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189334957767-fhfnce65b1s30ia0605piua0185iqr68.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
